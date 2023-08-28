@@ -5,5 +5,5 @@ on:
     
 jobs:
   call-workflow-with-branch:
-    uses: ActionsDemo23/github_action_demo/.github/workflows/hello.yml@main
+    uses: ActionsDemo23/.github/workflows/hello.yml@main
   
